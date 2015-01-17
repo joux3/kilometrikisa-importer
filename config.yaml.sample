@@ -1,0 +1,10 @@
+kilometrikisa-user: 
+kilometrikisa-password: 
+
+# log in to endomondo using FB and get the USER_TOKEN cookie from the browser
+endomondo-user-token:
+
+# these are for talvikilometrikisa 2015
+kilometrikisa-start-date: Jan 15, 2015
+kilometrikisa-end-date: Mar 14, 2015
+kilometrikisa-contest-id: 11
