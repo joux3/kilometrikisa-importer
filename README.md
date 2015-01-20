@@ -1,5 +1,5 @@
 # kilometrikisa-importer
-A small Ruby script to import workouts to kilometrikisa
+A small Ruby script to import workouts to kilometrikisa. Right now supports fetching workouts from Endomondo.
 
 # Usage
 1. Create `config.yaml` similar to the given example file `config.yaml.sample`
